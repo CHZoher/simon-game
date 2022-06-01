@@ -1,37 +1,8 @@
-# Angela Yu Web Development - Boss Level Challenge 2 - The Simon Game
-# HTML/CSS/JS & DOM - Simon Game
+# J'apprends le jQuery et les conditions en réalisant ce jeu
 
-- [About this project](#about)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Technical Information](#technical_information)
+Dans cet exercice je réalise un jeu avec le jQuery, je selectionne une case précise pour lui ajouter un son. Lorsqu'on touche une touche de notre clavier un des 4 carré réagi en émettant un son. On doit cliquer dessus, si on échoue on perds, si on clique sur le bon le jeu continue de manière aléatoire à choisir des carré...
 
-<a name="about"></a>
-## About
-In this code along I updated the provided starter files using
-HTML, CSS, Bootstrap, and Javascript
 
-<a name="features"></a>
-## Features
-- [x] HTML
-- [x] CSS
-- [x] Javascript
-- [x] Bootstrap
 
-<a name="requirements"></a>
-## Requirements
-- HTML
-- CSS
-- Javascript
-- Bootstrap
+![enter image description here](https://cdn.discordapp.com/attachments/978578935765930044/981536783684743178/unknown.png)
 
-<a name="technical_information"></a>
-## Technical Information
-
-To run the site on your local machine
-
-1. Download or clone the repository onto your machine.
-2. Extract the .zip file.
-3. Open .html file in your browser.
-5. Alternatively you can click on the following [Site Link](https://jsoto3000.github.io/js-Simon-Game-Challenge-master/ "Site Link") to view.
-# simon-game
